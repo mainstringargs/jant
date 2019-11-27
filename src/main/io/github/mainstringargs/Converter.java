@@ -19,7 +19,7 @@ public class Converter {
 	 * @return the string
 	 */
 	public static String toJson(String inputXml) {
-		String jsonConvertedString = U.xmlToJson(inputXml);
+		String jsonConvertedString = U.xmlToJson(inputXml).replaceAll("\r\n", "\n");
 		return jsonConvertedString;
 
 	}
@@ -31,7 +31,7 @@ public class Converter {
 	 * @return the string
 	 */
 	public static String toXml(String inputJson) {
-		String xmlConvertedString = U.jsonToXml(inputJson);
+		String xmlConvertedString = U.jsonToXml(inputJson).replaceAll("\r\n", "\n");
 		return xmlConvertedString;
 	}
 
