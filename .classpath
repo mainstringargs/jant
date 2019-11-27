@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="java/" kind="src" path="src/main"/>
+	<classpathentry kind="src" path="src/resources"/>
+	<classpathentry kind="src" path="src/script"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/optional/bcel-6.2.jar"/>
+	<classpathentry kind="lib" path="lib/optional/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/optional/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/optional/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="lib/optional/rhino-1.7.10.jar"/>
+	<classpathentry kind="lib" path="lib/optional/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/optional/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/optional/which-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/optional/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="lib/optional/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/optional/xz-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jakarta-regexp-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jakarta.activation-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jakarta.mail-1.6.3.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jasper-compiler-4.1.36.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jasper-runtime-4.1.36.jar"/>
+	<classpathentry kind="lib" path="lib/optional/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/optional/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="lib/optional/NetRexxC.jar"/>
+	<classpathentry kind="lib" path="lib/optional/bsf-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/bsh-2.0b5.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jdepend-2.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jruby-1.6.8.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jsch-0.1.55.jar"/>
+	<classpathentry kind="lib" path="lib/optional/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/optional/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/optional/junit-jupiter-api-5.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/junit-jupiter-engine-5.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/junit-platform-commons-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/junit-platform-engine-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/junit-platform-launcher-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/junit-vintage-engine-5.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/optional/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/optional/ivy-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jai-codec-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/optional/jai-core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/optional/ant-antunit-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/optional/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/optional/apiguardian-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/maven-ant-tasks-2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/optional/opentest4j-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/optional/underscore-1.48.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
